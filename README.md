@@ -22,6 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yourusername)  
 
-📫 **Reach me at:**[nuamanamin409@gmail.com
+📫 **Reach me at:**nuamanamin409@gmail.com
 
 ---
